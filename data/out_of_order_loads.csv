@@ -1,0 +1,3 @@
+event_id,dataset_id,source_file,load_completed_at,status,row_count
+OO002,customers,newer.csv,2026-11-12T09:00:00Z,SUCCESS,200
+OO001,customers,older.csv,2026-11-12T08:00:00Z,SUCCESS,100

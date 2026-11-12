@@ -1,0 +1,9 @@
+event_id,dataset_id,source_file,load_completed_at,status,row_count
+EVT001,customers,customers.csv,2026-11-12T08:00:00Z,SUCCESS,1000
+EVT002,orders,orders.csv,2026-11-12T08:15:00Z,SUCCESS,2500
+EVT003,payments,payments.csv,2026-11-12T08:30:00Z,FAILED,0
+EVT004,customers,customers_retry.csv,2026-11-12T09:00:00Z,SUCCESS,1200
+EVT005,orders,orders.csv,invalid_timestamp,SUCCESS,500
+EVT006,payments,payments.csv,2026-11-12T09:15:00Z,UNKNOWN,300
+EVT007,customers,customers.csv,2026-11-12T09:30:00Z,SUCCESS,-10
+EVT002,orders,orders_duplicate.csv,2026-11-12T09:45:00Z,SUCCESS,200
