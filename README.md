@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 # Dataset SLA and Freshness Monitoring System
 
