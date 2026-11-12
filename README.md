@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Dataset SLA and Freshness Monitoring System
 
@@ -291,3 +292,6 @@ This avoids unnecessary duplicate insertions during pipeline reruns.
 This project provides a tested foundation for dataset SLA and freshness monitoring.
 
 It demonstrates data ingestion, validation, rejection handling, monitoring, alert generation, idempotency, recovery, and performance testing using Python and SQLite.
+=======
+# dataset-sla-freshness-monitoring-pipeline
+>>>>>>> 2bb37a91ab14a7aafcac648da49072a63e2e7c2e
